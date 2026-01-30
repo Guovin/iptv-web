@@ -1,0 +1,44 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Background Gradient -->
+        <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0A2A43"/>
+            <stop offset="100%" stop-color="#0E5CAD"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect
+            x="16"
+            y="16"
+            width="480"
+            height="480"
+            rx="128"
+            fill="url(#bgGradient)"
+    />
+
+    <!-- Lightning Icon (Tech Style) -->
+    <path
+            d="M256 72
+       L192 230
+       H260
+       L224 364
+       L360 196
+       H292
+       L320 72 Z"
+            fill="#FFFFFF"
+    />
+
+    <!-- Text -->
+    <text
+            x="256"
+            y="468"
+            font-size="58"
+            font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-weight="700"
+            letter-spacing="3"
+            fill="#FFFFFF"
+            text-anchor="middle">
+        IPTV-Admin
+    </text>
+</svg>

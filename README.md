@@ -1,4 +1,3 @@
 <div align="center">
-  <img src="./public/logo.png" alt="logo"/>
-  <h1 align="center">IPTV-Admin</h1>
+  <img src="./public/logo.svg" alt="logo" width="120" height="120"/>
 </div>
